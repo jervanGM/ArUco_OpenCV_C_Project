@@ -1,0 +1,8 @@
+﻿  Proyecto_imagen.cpp
+d:\proyecto_imagen\proyecto_imagen\proyecto_imagen.cpp(52): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\proyecto_imagen\proyecto_imagen\proyecto_imagen.cpp(53): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\proyecto_imagen\proyecto_imagen\proyecto_imagen.cpp(178): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+d:\proyecto_imagen\proyecto_imagen\proyecto_imagen.cpp(44): warning C4101: 'end': variable local sin referencia
+d:\proyecto_imagen\proyecto_imagen\proyecto_imagen.cpp(44): warning C4101: 'start': variable local sin referencia
+d:\proyecto_imagen\proyecto_imagen\proyecto_imagen.cpp(45): warning C4101: 'epsilon': variable local sin referencia
+  Proyecto_imagen.vcxproj -> D:\Proyecto_imagen\x64\Debug\Proyecto_imagen.exe
